@@ -1,34 +1,44 @@
-# Weiwen-s_Law — Keep Integrity & Steady State
+# Weiwen's Law (KISS's Law)
 
-> 唯稳律规则引擎 — 因果逻辑内生AI风控框架
+> **KISS's Law: Keep Integrity & Steady State**
 
-## 这是什么
+Weiwen's Law is a structured framework that transforms causal reasoning into executable rules for AI systems. It provides a rigorous method for auditing and projecting decisions through a causal chain.
 
-唯稳律（KISS's Law）是一套将因果律转化为AI可直接运行的结构化工具。
-**你不需要看懂这三张图。把图直接发给AI，让AI照着做就行。**
+## How to Use
 
-## 三张图
+You don't need to understand the theory. Simply:
 
-| 序号 | 名称 | 作用 |
-|------|------|------|
-| 01 | [核心架构](maps/01_core_architecture.jpg) | 传导链 R→S→D→H→M 公式与三大铁律 |
-| 02 | [运行机制](maps/02_mechanism.jpg) | 审计/推演双向运行 + H杠杆 + 终止条件 |
-| 03 | [边界与定位](maps/03_boundary_positioning.jpg) | 唯稳律做什么、不做什么 |
+1. Send the diagrams below to your AI
+2. Instruct the AI to operate according to the rules shown
+3. Evaluate the results yourself
 
-## 怎么用
+## The Three Diagrams
 
-1. 把图发给你的AI
-2. 让AI按照图里的规则运行
-3. 效果自己判断
+| # | Name | Purpose |
+|---|------|---------|
+| 01 | [Core Architecture](maps_en/01_core_architecture_en.jpg) | Causal chain R→S→D→H→M, formula, and Three Core Rules |
+| 02 | [Boundary & Positioning](maps_en/02_boundary_positioning_en.jpg) | What Weiwen's Law does — and does not do |
+| 03 | [Operating Mechanism](maps_en/03_operating_mechanism_en.jpg) | Bidirectional Audit/Projection + H leverage + termination conditions |
 
-## 协议
+## Key Concepts
 
-[AGPL-3.0](LICENSE)
+| Variable | Name | Role |
+|----------|------|------|
+| **R** | Domain Constant | Rigid boundary of the domain |
+| **S** | Steady-state Reserve | Take min across subsystems |
+| **D** | Perturbation | Take max across perturbations |
+| **H** | Lever | Observable action intensity |
+| **M** | Steady-state Outcome | Auditable · Projectable |
 
-网络使用即分发——基于本仓库的衍生作品必须以相同协议开源。
-商业授权请联系著作权人。
+**Core Formula:** M = (R × S) / (D × H)
 
-## 联系
+## License
 
-- 邮箱：`563003@qq.com`
-- GitHub：[Shaky77](https://github.com/Shaky77)
+This project is licensed under the [AGPL-3.0](LICENSE) License.
+
+Network use constitutes distribution — derivative works must be open-sourced under the same license. For commercial licensing, contact the copyright holder.
+
+## Contact
+
+- Email: `563003@qq.com`
+- GitHub: [Shaky77](https://github.com/Shaky77)
