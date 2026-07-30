@@ -30,5 +30,5 @@
 
 ## 联系
 
-- 微信：`13387600700`
+- 邮箱：`563003@qq.com`
 - GitHub：[Shaky77](https://github.com/Shaky77)
