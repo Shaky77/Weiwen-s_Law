@@ -116,6 +116,13 @@ Demo包含：
 - Python 3.8+
 - 无外部依赖（纯Python）
 
+## 学术引用与版权声明
+
+**Copyright © 2026 夏祺 (Xia Qi). All rights reserved.**
+
+- 软件著作权登记号：2026SR0748746
+- 作者 ORCID：[0009-0002-1433-6982](https://orcid.org/0009-0002-1433-6982)
+
 ## 开源协议
 
 本项目采用 **AGPL-3.0** 协议。
