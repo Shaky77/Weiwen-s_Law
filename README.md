@@ -116,6 +116,29 @@ Demo包含：
 - Python 3.8+
 - 无外部依赖（纯Python）
 
+## 交互式分析工具
+
+基于唯稳律框架的 Web 工具，通过结构化因果推理分析声明、决策和系统。
+
+### 快速启动
+
+```bash
+pip install gradio openai
+python app.py
+```
+
+然后在浏览器打开 **http://127.0.0.1:7860**
+
+### 功能
+- **因果分析模式**：提交声明、决策或系统 → 获得结构化 R→S→D→H→M 分析
+- **自由对话模式**：与按唯稳律因果框架推理的 AI 对话
+- **多服务商**：支持 OpenAI、DeepSeek、通义千问、硅基流动及任何 OpenAI 兼容 API
+- **零成本**：使用你自己的 API Key，无需后端服务器
+
+### 环境要求
+- Python 3.8+
+- 任意支持的 LLM 服务商的 API Key
+
 ## 学术引用与版权声明
 
 **Copyright © 2026 夏祺 (Xia Qi). All rights reserved.**
