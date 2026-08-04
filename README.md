@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/github/license/Shaky77/Weiwen-s_Law)](LICENSE)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1433--6982-brightgreen)](https://orcid.org/0009-0002-1433-6982)
+
 # 唯稳律 — 守真·稳态 (Keep Integrity & Steady State)
 
 > AI因果逻辑引擎 —— 不是教AI理解什么是因果律，而是让AI按照因果律的运行结构直接执行。
