@@ -70,6 +70,12 @@ M = (R × S) / (D × H)
 | 02 | [边界与定位](maps/03_boundary_positioning.jpg) | 唯稳律做什么、不做什么 |
 | 03 | [运行机制](maps/02_mechanism.jpg) | 审计/推演双向运行 + H杠杆 + 终止条件 |
 
+## 案例档案
+
+用唯稳律实跑的 AI / 工程案例已归档至 [`examples/ai/`](examples/ai/README.md)——涵盖推荐系统、AI 客服、医疗影像、交通调度等通用场景，展示 R→S→D→H→M 的三档判别力（REJECT / 条件放行 / 通过）。
+
+> 案例基于完整版运行，基础版用户可放心阅读主干逻辑；进阶结构说明见 [`examples/ai/README.md`](examples/ai/README.md)。
+
 ## 三大铁律
 
 1. **不可跳过** — 因果链 R→S→D→H→M 不可绕过任何一个环节
