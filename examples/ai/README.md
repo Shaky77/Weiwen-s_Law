@@ -16,9 +16,7 @@
 | [case_complete_native_2.md](case_complete_native_2.md) | AI 客服标准授权内自动退款 | 条件放行 + 优化 |
 | [case_complete_native_3.md](case_complete_native_3.md) | 医疗影像辅助标注 + 临床复核 | 通过 |
 
-## 合作模式 / 方法演进
+## 合作模式 / 审计
 
 - [case_run_cooperation.md](case_run_cooperation.md)：交通信号 AI 调度（白箱-黑箱合作模式）
-- [retest_cooperation.md](retest_cooperation.md) / [retest_correct_mode.md](retest_correct_mode.md)：合作模式方法演进
-- [self_cases_audit_report.md](self_cases_audit_report.md)：4 案例汇总实测（含早期数值法自我更正）
 - [native_mode_audit.md](native_mode_audit.md)：项目上线断言原生模式审计
