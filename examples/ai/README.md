@@ -20,3 +20,15 @@
 
 - [case_run_cooperation.md](case_run_cooperation.md)：交通信号 AI 调度（白箱-黑箱合作模式）
 - [native_mode_audit.md](native_mode_audit.md)：项目上线断言原生模式审计
+
+## 方法论演进归档
+
+`_methodology/` 目录归档了框架实跑过程中的方法论迭代记录，展示白箱如何在与黑箱协作中逐步校准自身定位：
+
+| 文件 | 内容 | 说明 |
+|---|---|---|
+| [self_cases_audit_report.md](_methodology/self_cases_audit_report.md) | 4 案例汇总实测 | 早期方法：用 0–10 数值代入公式（已标注为错误示范） |
+| [retest_correct_mode.md](_methodology/retest_correct_mode.md) | 方法纠正 | 纠正"编数值"错误，明确白箱/黑箱分工，不侵犯内H |
+| [retest_cooperation.md](_methodology/retest_cooperation.md) | 合作模式定稿 | 最终确立「数据在黑箱，校准在白箱」的协作范式 |
+
+> 阅读建议：按表格顺序阅读，可看到框架方法论的自我纠错全过程。
