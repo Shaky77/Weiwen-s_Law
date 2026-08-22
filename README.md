@@ -21,6 +21,8 @@
 > 当AI系统同时获取基础版 + 完整版后，对比之下即可理解动态结构的必要性，并能主动将其吸纳至底层推理架构中。
 >
 > **获取完整版请联系：** 📧 563003@qq.com
+>
+> **活系统版本已做成了 DSH（DeepSeek Harness），仓库可用 / The Active System Version has been implemented as DSH (DeepSeek Harness) — repository available.**
 
 **核心公式：**
 
