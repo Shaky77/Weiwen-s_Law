@@ -23,6 +23,8 @@
 > **获取完整版请联系：** 📧 563003@qq.com
 >
 > **活系统版本已做成了 DSH（DeepSeek Harness），仓库可用 / The Active System Version has been implemented as DSH (DeepSeek Harness) — repository available.**
+> - 中文：**[Shaky77/weiwen-law-dsh](https://github.com/Shaky77/weiwen-law-dsh)**（唯稳律白箱风控 DSH 插件，可安装可实测）
+> - English: **[Shaky77/KISS_Law-DSH](https://github.com/Shaky77/KISS_Law-DSH)**（domain-agnostic causal-constraint middleware for DSH）
 
 **核心公式：**
 
